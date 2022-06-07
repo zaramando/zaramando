@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 My name is Armando Zarate, I'm from Colombia and I'm an Software Engenieer.
 
-* Currently working for Siigo as a Senior Site Reliability Engenieer.
+* Currently working for Bold.co as a Senior Software Engenieer.
